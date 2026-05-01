@@ -1,2 +1,2 @@
-# DaiiaZarate.github.io
+# DaliaZarate.github.io
 Página web del Proyecto Integrador.
